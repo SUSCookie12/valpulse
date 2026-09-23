@@ -1,1 +1,24 @@
-
+{
+  "version": "2.4.0",
+  "buildNumber": 2,
+  "forceUpdate": false,
+  "releaseDate": "2026-09-24",
+  "title": "ValPulse v2.4.0 Update Available",
+  "changelog": [
+    "Modern floating bottom bar (Store / Lobby / Career)",
+    "Tactical Lobby popup with Queue Control, Collection, Agents & Friends",
+    "Collection overhaul with 2-by-row skin grid and backpack branding",
+    "Inspect skin videos, variant chromas swatches, and progression levels",
+    "Added Bandit (Warden) and Outlaw weapon support",
+    "Automatic Riot region discovery & high-contrast disconnect dialog",
+    "Real-time update notification with direct platform downloads"
+  ],
+  "android": {
+    "apkUrl": "https://github.com/SUSCookie12/valpulse/releases/download/2.4.0/ValPulse-v2.3.0.apk",
+    "fileSize": "50.3 MB"
+  },
+  "ios": {
+    "iosUrl": "https://testflight.apple.com/join/ValPulseBeta",
+    "fileSize": "52.5 MB"
+  }
+}
