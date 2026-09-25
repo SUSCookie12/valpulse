@@ -1,5 +1,5 @@
 {
-  "version": "26.0.1",
+  "version": "26.0.2",
   "buildNumber": 2,
   "forceUpdate": false,
   "releaseDate": "2026-09-24",
@@ -7,8 +7,8 @@
   "changelog": [
   ],
   "android": {
-    "apkUrl": "https://github.com/SUSCookie12/valpulse/releases/download/26.0.1/ValPulse-v26.0.1.apk",
-    "fileSize": "51.2 MB"
+    "apkUrl": "https://github.com/SUSCookie12/valpulse/releases/download/26.0.2/ValPulse-v26.0.2.apk",
+    "fileSize": "51.3 MB"
   },
   "ios": {
     "iosUrl": "https://testflight.apple.com/join/ValPulseBeta",
